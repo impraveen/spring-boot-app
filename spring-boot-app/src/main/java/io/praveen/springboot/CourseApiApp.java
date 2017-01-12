@@ -3,6 +3,10 @@ package io.praveen.springboot;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/**
+ * @author PSRawat
+ *
+ */
 @SpringBootApplication
 public class CourseApiApp {
 
